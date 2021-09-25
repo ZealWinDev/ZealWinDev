@@ -1,5 +1,4 @@
 ### Selamun Aleyküm 👋
-I am Software Developer :)
 
 Benim hakkımda bazi bilgiler:
 
@@ -8,7 +7,7 @@ Benim hakkımda bazi bilgiler:
 - 💬 Bana discord'dan soru sorabilirsin.
 
 Discord: ^ ☪ Zealwin Developer#0789 <br>
-İnstagram: https://www.instagram.com/zealwin.dev/
-Twitter: https://twitter.com/zeawin_dev
-Linkedin: https://www.linkedin.com/in/zealwin/
-Website: https://zealwin.tk/
+İnstagram: https://www.instagram.com/zealwin.dev/ <br>
+Twitter: https://twitter.com/zeawin_dev <br>
+Linkedin: https://www.linkedin.com/in/zealwin/ <br>
+Website: https://zealwin.tk/ <br>
