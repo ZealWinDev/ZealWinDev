@@ -7,7 +7,7 @@ Benim hakkımda bazi bilgiler:
 - 🌱 Html, Css, Javascript, Python Biliyorum, C# ve Unityi öğrenmeye devam ediyorum.
 - 💬 Bana discord'dan soru sorabilirsin.
 
-Discord: ^ ☪ Zealwin Developer#0789
+Discord: ^ ☪ Zealwin Developer#0789 <br>
 İnstagram: https://www.instagram.com/zealwin.dev/
 Twitter: https://twitter.com/zeawin_dev
 Linkedin: https://www.linkedin.com/in/zealwin/
